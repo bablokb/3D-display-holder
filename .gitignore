@@ -1,0 +1,11 @@
+*.obj
+*.xcf
+*.bmp
+*.dxf
+*.eps
+
+*.gcode
+*.3mf
+*.stl
+work
+TODO
